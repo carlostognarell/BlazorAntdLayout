@@ -1,0 +1,126 @@
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.StaticWebAssets.xml
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.exe
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.deps.json
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.runtimeconfig.json
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.runtimeconfig.dev.json
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.pdb
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.Views.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.Views.pdb
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\AntDesign.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\OneOf.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.AssemblyInfoInputs.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.AssemblyInfo.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorComponent.input.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AntBlazorGrid.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.TagHelpers.input.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.TagHelpers.output.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorCoreGenerate.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorAssemblyInfo.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorAssemblyInfo.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorTargetAssemblyInfo.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorTargetAssemblyInfo.cs
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.Views.pdb
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.csproj.CopyComplete
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\staticwebassets\BlazorAntDesignDemo.StaticWebAssets.Manifest.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\staticwebassets\BlazorAntDesignDemo.StaticWebAssets.xml
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.dll
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.pdb
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.genruntimeconfig.cache
+C:\Users\ASHRAFUL\source\repos\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.csprojAssemblyReference.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.StaticWebAssets.xml
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.exe
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.deps.json
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.runtimeconfig.json
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.runtimeconfig.dev.json
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.pdb
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.Views.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\BlazorAntDesignDemo.Views.pdb
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\AntDesign.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\bin\Debug\netcoreapp3.1\OneOf.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.csproj.AssemblyReference.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.AssemblyInfoInputs.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.AssemblyInfo.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorComponent.input.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AntBlazorGrid.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AntChartDemo.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorComponent.output.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorAntDesignDemo.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.TagHelpers.input.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.TagHelpers.output.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorCoreGenerate.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\AntBlazorGrid.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\AntChartDemo.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorAssemblyInfo.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorAssemblyInfo.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\staticwebassets\BlazorAntDesignDemo.StaticWebAssets.Manifest.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\staticwebassets\BlazorAntDesignDemo.StaticWebAssets.xml
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorAntDesignDemo.styles.css
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.Views.pdb
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.csproj.CopyComplete
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.dll
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.pdb
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\BlazorAntDesignDemo.genruntimeconfig.cache
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Buttons.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\Buttons.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Forms.razor.g.cs
+C:\Users\Carlos Tognarell\Downloads\BlazorAntDesignDemo\BlazorAntDesignDemo\BlazorAntDesignDemo\obj\Debug\netcoreapp3.1\Razor\Pages\Forms.razor.g.cs

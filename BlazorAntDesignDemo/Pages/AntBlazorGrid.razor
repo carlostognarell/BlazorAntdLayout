@@ -1,0 +1,117 @@
+﻿@page "/antgrid"
+@using AntDesign.TableModels
+@using BlazorAntDesignDemo.Data
+@inject WeatherForecastService forecastService
+
+<h3>Ant Blazor Grid</h3>
+
+@code{
+    private string _position = CarouselDotPosition.Bottom;
+}
+
+<style>
+    .ant-carousel .slick-slide {
+        text-align: center;
+        height: 160px;
+        line-height: 160px;
+        background: #364d79;
+        overflow: hidden;
+    }
+
+        .ant-carousel .slick-slide h3 {
+            color: #fff;
+        }
+</style>
+
+@*<div>*@
+    <Table @ref="table"
+           TItem="WeatherForecast"
+           DataSource="@forecasts"
+           Total="_total"
+           OnChange="onChange"
+           @bind-PageIndex="_pageIndex"
+           @bind-PageSize="_pageSize"
+           @bind-SelectedRows="selectedRows">
+        <Selection Key="@(context.Id.ToString())" />
+        <Column @bind-Field="@context.Id" Sortable />
+        <Column @bind-Field="@context.Date" Format="yyyy-MM-dd" Sortable />
+        <Column @bind-Field="@context.TemperatureC" Sortable />
+        <Column Title="Temp. (F)" Field="@context.TemperatureF" />
+        <Column Title="Hot" Field="@context.Hot">
+            <Switch @bind-Value="@context.Hot" OnChange="()=>Alerta(context.Id)"></Switch>
+        </Column>
+        <ActionColumn>
+            <Space>
+                <SpaceItem>
+                    <Button Danger OnClick="()=>Delete(context.Id)">Delete</Button>
+                </SpaceItem>
+            </Space>
+        </ActionColumn>
+
+
+    </Table>
+
+    <p>
+        PageIndex: @_pageIndex | PageSize: @_pageSize | Total: @_total
+    </p>
+
+    <h5>Selected Items</h5>
+    @if (selectedRows != null && selectedRows.Any())
+    {
+        <Button Danger Size="small" OnClick="@(e=> { selectedRows = null; })">Clear</Button>
+        @foreach (var item in selectedRows)
+        {
+            <Tag @key="item.Id" Closable OnClose="e=>RemoveSelection(item.Id)">@item.Id-@item.Summary</Tag>
+        }
+    }
+
+    <Button OnClick="()=> { _pageIndex--; }">Previous Page</Button>
+    <Button OnClick="()=> { _pageIndex++; }">Next Page</Button>
+@*</div>*@
+
+
+
+@code {
+    WeatherForecast[] forecasts;
+
+    IEnumerable<WeatherForecast> selectedRows;
+    ITable table;
+
+    int _pageIndex = 1;
+    int _pageSize = 10;
+    int _total = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+
+    }
+
+    async Task onChange(QueryModel<WeatherForecast> queryModel)
+    {
+        var data = await forecastService.GetForecastAsync(queryModel.PageIndex, queryModel.PageSize, queryModel);
+        forecasts = data.Items.ToArray();
+
+        _pageIndex = queryModel.PageIndex;
+        _pageSize = queryModel.PageSize;
+        _total = data.TotalCount;
+    }
+
+    private void Delete(int id)
+    {
+        forecasts = forecasts.Where(x => x.Id != id).ToArray();
+        _total = _pageIndex * forecasts.Length;
+    }
+
+    private void Alerta(int id)
+    {
+        forecasts = forecasts.Where(x => x.Id != id).ToArray();
+        _total = _pageIndex * forecasts.Length;
+    }
+
+    public void RemoveSelection(int id)
+    {
+        var selected = selectedRows.Where(x => x.Id != id);
+        selectedRows = selected;
+    }
+
+}
