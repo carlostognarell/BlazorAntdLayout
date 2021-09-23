@@ -5126,11 +5126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Tognarell\\Downloads\\BlazorAntDesignDemo\\BlazorAntDesignDemo\\BlazorAntDesignDemo\\BlazorAntDesignDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Tognarell\\Documents\\GitHub\\BlazorAntdLayout\\BlazorAntDesignDemo\\BlazorAntDesignDemo.csproj",
       "projectName": "BlazorAntDesignDemo",
-      "projectPath": "C:\\Users\\Carlos Tognarell\\Downloads\\BlazorAntDesignDemo\\BlazorAntDesignDemo\\BlazorAntDesignDemo\\BlazorAntDesignDemo.csproj",
+      "projectPath": "C:\\Users\\Carlos Tognarell\\Documents\\GitHub\\BlazorAntdLayout\\BlazorAntDesignDemo\\BlazorAntDesignDemo.csproj",
       "packagesPath": "C:\\Users\\Carlos Tognarell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Tognarell\\Downloads\\BlazorAntDesignDemo\\BlazorAntDesignDemo\\BlazorAntDesignDemo\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Tognarell\\Documents\\GitHub\\BlazorAntdLayout\\BlazorAntDesignDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Tognarell\\AppData\\Roaming\\NuGet\\NuGet.Config",
