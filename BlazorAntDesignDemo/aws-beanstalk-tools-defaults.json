@@ -1,0 +1,20 @@
+
+{
+    "region" : "us-east-2",
+    "configuration" : "Debug",
+    "framework"     : "netcoreapp3.1",
+    "self-contained" : false,
+    "application"    : "BlazorAntDesignDemo",
+    "environment"    : "BlazorAntDesignDemo-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-079c03309a22e1d49\";\"aws:ec2:vpc,Subnets\"=\"subnet-086ab863bb0041ef4\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.2.7 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "blazorantdesigndemo-dev",
+    "instance-type"        : "t3a.micro",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role",
+    "proxy-server"         : "nginx"
+}
